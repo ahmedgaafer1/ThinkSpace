@@ -10,7 +10,7 @@ export default function Home() {
       <section className="hero d-flex align-items-center">
         <div className="container text-center">
           <h1 className="display-4 fw-bold mb-3">
-            Welcome to <span className="brand">BlogSphere</span>
+            Welcome to <span className="brand">ThinkSpace</span>
           </h1>
           <p className="lead mb-4">
             {token
@@ -93,9 +93,9 @@ export default function Home() {
               />
             </div>
             <div className="col-md-6">
-              <h3 className="fw-bold mb-3">About BlogSphere</h3>
+              <h3 className="fw-bold mb-3">About ThinkSpace</h3>
               <p className="mb-3 text-muted">
-                BlogSphere is more than just a blog — it's a community of
+                ThinkSpace is more than just a blog — it's a community of
                 thinkers, storytellers, and learners. Whether you're here to
                 share, discover, or grow, you're in the right place.
               </p>
@@ -116,7 +116,7 @@ export default function Home() {
       <footer className="py-4 border-top">
         <div className="container d-flex justify-content-between">
           <p className="mb-0">
-            &copy; {new Date().getFullYear()} BlogSphere. All rights reserved.
+            &copy; {new Date().getFullYear()} ThinkSpace. All rights reserved.
           </p>
           <div>
             <a href="#" className="text-muted me-3">
