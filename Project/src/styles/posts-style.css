@@ -1,0 +1,45 @@
+/* ---------- Posts Styling ---------- */
+.post-card {
+  background-color: white;
+  border-radius: 20px;
+  padding: 20px;
+  transition: 0.3s ease;
+}
+
+.post-card:hover {
+  transform: translateY(-5px);
+  box-shadow: 0 12px 24px rgba(0, 0, 0, 0.08);
+}
+
+.post-card h5 {
+  color: var(--text-dark);
+}
+
+.post-card p {
+  color: var(--text-muted);
+}
+
+.post-card img {
+  border: 2px solid var(--bg-light);
+}
+
+.post-card button {
+  border-radius: 12px;
+  transition: 0.2s ease;
+}
+
+.post-card button:hover {
+  background-color: var(--bg-light);
+}
+
+/* Center title */
+h2 {
+  color: var(--text-dark);
+}
+
+/* Responsive */
+@media (max-width: 768px) {
+  .post-card {
+    padding: 15px;
+  }
+}
