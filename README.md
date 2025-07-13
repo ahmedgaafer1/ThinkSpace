@@ -71,6 +71,24 @@ ThinkSpace is a blogging platform where users can share their ideas. It supports
   - Swagger ready (optional)
 
 ---
+## 📸 Screenshots
+
+Here are some screenshots of the **ThinkSpace** app:
+### Login Page
+![Login](/Project/screens/login.png)
+
+### Home Page
+![Home](/Project/screens/home.png)
+
+### All Posts
+![All Posts](/Project/screens/allposts.png)
+
+### My Posts
+![My Posts](/Project/screens/myposts.png)
+
+### My Profile
+![My Profile](/Project/screens/myprofile.png)
+
 
 ## 🛠️ Tech Stack
 
